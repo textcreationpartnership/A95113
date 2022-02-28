@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the proceedings at the Sessions House in the Old-Baily, which began on Wednesday the 6. of this instant December and ended on the 8. following. Giving an account of most of the remarkable tryals there, viz. for murthers, fellonies, burglaries, &amp;c. With a particular relation of their names and the places where the several facts were committed, with the number of those condemned to dye, burnt in the hand, and to be whipt.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682-1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95113</idno>
+            <idno type="OCLC"> 45504536</idno>
+            <idno type="STC">Wing T2830A</idno>
+            <idno type="STC">Wing T2829D</idno>
+            <idno type="STC">ESTC R185608</idno>
+            <idno type="EEBO-CITATION">45504536</idno>
+            <idno type="OCLC">ocm 45504536</idno>
+            <idno type="VID">171852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171852)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2594:11, 1641-1700 , 2899:67)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the proceedings at the Sessions House in the Old-Baily, which began on Wednesday the 6. of this instant December and ended on the 8. following. Giving an account of most of the remarkable tryals there, viz. for murthers, fellonies, burglaries, &amp;c. With a particular relation of their names and the places where the several facts were committed, with the number of those condemned to dye, burnt in the hand, and to be whipt.</title>
+                  <author>England and Wales. Court of Oyer and Terminer and Gaol Delivery (London and Middlesex)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1682 or 3]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Error in paging: p. 3 is numbered 4.</note>
+                  <note>Reproductions of original in the Bodleian Library.</note>
+                  <note>Item at reel position 2594:11 incorrectly identified on film as Wing T2830A.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171852:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>THE TRUE NARRATIVE OF THE PROCEEDINGS AT THE SESSIONS HOUSE IN The Old-Baily, Which began on <date>
+                  <hi>Wedneſday</hi> the 6. of this Inſtant <hi>December,</hi> and ended the 8. following.</date>
+            </head>
+            <head type="sub">Giving an Account of moſt of the Remarkable <hi>Tryals</hi> there, <hi>viz.</hi> For <hi>Murthers, Fellonies, Burglaries, &amp;c.</hi> With a particular Relation of their <hi>Names,</hi> and the <hi>Places</hi> where the ſeveral <hi>Facts</hi> were Com<g ref="char:EOLhyphen"/>mitted, with the <hi>Number</hi> of thoſe Condemned to <hi>Dye, Burnt in the Hand, and to be Whipt.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Decemb. 6. 1682.</date>
+               </dateline>
+            </opener>
+            <p>THis day the Seſſions of <hi>Oyer</hi> and <hi>Terminer.</hi> began for the City of <hi>London</hi> and County of <hi>Middleſex,</hi> and Goal-Deli<g ref="char:EOLhyphen"/>very of <hi>N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wgate,</hi> where after Proclamation made, the Jurys were called over, and 24 Swom, to Try the Iſſues between the King and the Prittoner, <hi>viz.</hi> Twelve for <hi>London</hi> and Twelve for <hi>Middleſex,</hi> after which, the Court proceeded to Tryals as followeth.</p>
+            <p>
+               <hi>William T<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>per</hi> and <hi>Edward Dicks,</hi> were found Guilty of break<g ref="char:EOLhyphen"/>ing open the Houſe of <hi>R<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bert Budington,</hi> Merchant, and taking from thence a Bat of Si<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k to the Value of 200 pounds.</p>
+            <pb n="2" facs="tcp:171852:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <p>
+               <hi>Thomas Friend,</hi> brought from the <hi>Marſhelſea</hi> in <hi>Southwark,</hi> was Convicted of Stealing a Silver Tankard.</p>
+            <p>
+               <hi>John Price</hi> was Caſt for a Silver Tankard which he Stole from <hi>Thomas Price,</hi> of ſix pound Value, and another from Captain <hi>Love,</hi> of the Value of five pound.</p>
+            <p>
+               <hi>Samuel Doſſey</hi> was Indicted for Felloniouſly Stealing out of his Maſters Trunck a conſiderable Sum in Gold and Silver, with Gold-Rings, <hi>&amp;c.</hi> of which he was Convicted.</p>
+            <p>
+               <hi>George Robinſon</hi> was Convicted of four Treſpaſſes, for Coun<g ref="char:EOLhyphen"/>terfciting four ſeveral Bills in <hi>October</hi> laſt, directed to Mr. <hi>Minga,</hi> to which he Counterfeited the Hands of Mr. <hi>Marmion,</hi> Mr. <hi>Beau<g ref="char:EOLhyphen"/>mont,</hi> Mr. <hi>Ditton,</hi> and Mr. <hi>Wyat;</hi> the firſt for the Sum of 100 l. the ſecond for 70 <hi>l.</hi> the third for 75 <hi>l.</hi> and the laſt for 50 <hi>l.</hi>
+            </p>
+            <p>
+               <hi>John Bates</hi> was by his own Confeſſion Convicted of Stealing a Silver Tankard from <hi>Thomas Mariot, John Cotten</hi> being in Compa<g ref="char:EOLhyphen"/>ny with the ſaid <hi>Bates</hi> when he Stole the Tankard, pleaded Igno<g ref="char:EOLhyphen"/>rance, ſtood his Tryal, and was acquitted.</p>
+            <p>Ten Apprentices were Indicted-for a Ryot committed in the City of <hi>London, viz. Thomas Page, George Dicks, John Brown, Fran<g ref="char:EOLhyphen"/>cis Peirce, Gamaliel Webb, Thomas Fiſher, Thomas Langham, Joſeph Tenant, Thomas Turner, George Hickman,</hi> whereof the three laſt were acquitted, <hi>Thomas Langham</hi> was Indicted for an Aſſault alſo upon the Body of <hi>William Spencer,</hi> as the ſaid <hi>William Spencer</hi> was peace<g ref="char:EOLhyphen"/>ably paſſing the Street, near St. <hi>Mary Woolchurch,</hi> but Evidence being given in Court that the ſaid <hi>Lungham</hi> was not with the Rabble, but within Doors, the Jury brought in their Verdict that he was acquitted of the Ryot, but not of the Aſſault.</p>
+            <p>
+               <hi>Sarah Brown,</hi> alias <hi>Bowen</hi> was Convicted of Stealing a Silver Tankard from Mr. <hi>William Norris,</hi> to the Value of 8 <hi>l.</hi>
+            </p>
+            <p>
+               <hi>James Laſhly</hi> Eſquire, being brought the 6th. Inſtant from the <hi>Gate-Houſe</hi> at <hi>Weſtminſter,</hi> was found Guilty of Murthering Mr. <hi>Glover</hi> in <hi>Covent-Garden.</hi>
+            </p>
+            <p>Theſe Highway-Men following were brought the 2d. Inſtant by <hi>Habeas-Corpus</hi> from <hi>Salisbury, viz. Richard Brown, Thomas Harris,</hi> alias <hi>Paggit, John Foſter,</hi> alias <hi>Page,</hi> alias <hi>King, Henry Layfield,</hi> and <hi>John Davis,</hi> were found Guilty of Robbing <hi>Andrew Meal</hi> and <hi>Samuel Doughty</hi> of a Horſe and ſeveral Goods, and upon another In<g ref="char:EOLhyphen"/>dictment Convicted of Robbing Mr. <hi>Tibber</hi> of a Sorrel Horſe in <hi>Marlborough Thicket.</hi>
+            </p>
+            <p>Theſe following Foot Padds <hi>John Hutchings, Joſeph Redwell,</hi> alias <hi>Kedwell, Henry Paſſet, Richard Kent, Thomas Williams,</hi> were all
+<pb n="4" facs="tcp:171852:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 29 -->brought from <hi>Chelmsford</hi> Goal in <hi>Eſſex,</hi> the 4th Inſtant and Convict for Robbing <hi>William Johnſon</hi> and his Wife of a Steel-Box a Han<g ref="char:EOLhyphen"/>kerchief and five pound in Money, between <hi>Mile end</hi> and <hi>Bow,</hi> as they were going to <hi>Rumford.</hi>
+            </p>
+            <p>
+               <hi>Abraham Caſteel. Richard Kent, Robert Maſon and Thomas Williams,</hi> were Convict of Breaking the Houſe of <hi>Elizabeth Morten</hi> Widdow at <hi>Newington Green,</hi> upon the 10th of <hi>October</hi> laſt, and Stealing ſe<g ref="char:EOLhyphen"/>veral Goods of a conſiderable Value.</p>
+            <p>
+               <hi>Robert Maſon</hi> was found Guilty of three Fellonys more, <hi>viz.</hi> for Robbing <hi>John Ady, Daniel Sitherdel,</hi> and <hi>Robert Skempton.</hi>
+            </p>
+            <p>
+               <hi>Derothy Cotterel,</hi> was found Guilty of Stealing a Silver Cup, and an Aggat hafted Knife value 8 ſhillings from <hi>John Hale</hi> the 17th of <hi>September</hi> laſt.</p>
+            <p>
+               <hi>Arthur Pembrook</hi> was found Guilty of Stealing 18 Ells of Hol<g ref="char:EOLhyphen"/>land from <hi>Vincent Yate,</hi> Value about 20 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Edward Horner</hi> was found Guilty of Stealing 14 yards of Fuſtion, value 14 ſhillings from <hi>John Clayton</hi> the 5th of <hi>November</hi> laſt.</p>
+            <p>
+               <hi>John Price</hi> and <hi>Dunny Will,</hi> were both Apprehended in Court one in <hi>Hickes-Hall,</hi> the other in the <hi>Old Bayly,</hi> for a Robbery and Murther committed about two years ſince in <hi>Kent.</hi>
+            </p>
+            <p>
+               <hi>Amos Day</hi> was Convict of Stealing Goods from Sir <hi>Thomas Bide,</hi> upon the 2d. of <hi>June</hi> 82. to the Value of 40 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>John Barker</hi> a Broker was Caſt for Stealing a Coach-Seat from <hi>Elias Gliſs,</hi> to the Value of 10 d.</p>
+            <p>
+               <hi>William Hammond</hi> was Convict for Stealing a Gown, Stockings, and other Goods valued 10 d.</p>
+            <p>
+               <hi>George Everet</hi> was found Guilty of Stealing 14 Sheep from <hi>Wil<g ref="char:EOLhyphen"/>liam Pope.</hi>
+            </p>
+            <p>
+               <hi>Alexander Price</hi> was Convict of Stealing Bees-Wax, valued 10 d.</p>
+            <p>
+               <hi>Edward Pemberton</hi> for Stealing a Coquo Cup from <hi>Lyonel Jones,</hi> valued 10 d.</p>
+            <p>
+               <hi>Nathaniel Pardue,</hi> for Robbing of <hi>George Hall</hi> on the High-way the 4th. of <hi>September</hi> 82. of Money and goods was found Guilty.</p>
+            <p>
+               <hi>John Macklin,</hi> for Breaking the Houſe of <hi>Thomas Rawbone,</hi> and ſtealing from thence Goods to a conſiderable value, was found Guilty of Fellony.</p>
+            <p>
+               <hi>James Farrower,</hi> for ſtealing Ten Gold-Rings, Gold and other things to the value of Twenty pound, was found Guilty.</p>
+            <p>
+               <pb n="4" facs="tcp:171852:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 30 -->
+Fifteen received ſentence of Death, <hi>viz.</hi>
+               <list>
+                  <item>Sarah Brown, <hi>Alias</hi> Bowen.</item>
+                  <item>James Laſhly <abbr>Eſq</abbr>
+                  </item>
+                  <item>Richard Brown.</item>
+                  <item>Thomas Harris.</item>
+                  <item>John Foſter.</item>
+                  <item>Henry Layfield,</item>
+                  <item>John Davis.</item>
+                  <item>John Hutchins.</item>
+                  <item>Joſeph Redwell,<lb/>
+                     <hi>Alias</hi> Kedwell.</item>
+                  <item>Henry Pafet.</item>
+                  <item>Richard Kent.</item>
+                  <item>Thomas Williams.</item>
+                  <item>Abraham Caſteel.</item>
+                  <item>Robert Maſon.</item>
+                  <item>Nathaniel Pardue.</item>
+               </list>
+            </p>
+            <p>Theſe Following, being Convict of ſeveral Fellonys received the Benefit of the Clergy, <hi>viz.</hi>
+               <list>
+                  <item>Thomas Faulconer.</item>
+                  <item>Arthur Pembrook</item>
+                  <item>Edward Homes.</item>
+                  <item>John Price.</item>
+                  <item>Edward Dickins.</item>
+                  <item>John Prince.</item>
+                  <item>Samuel Dawley.</item>
+                  <item>George Everet.</item>
+                  <item>John Marklain.</item>
+                  <item>James Farrower.</item>
+                  <item>William Trumper.</item>
+                  <item>Thomas Friend.</item>
+                  <item>John Bates.</item>
+               </list>
+            </p>
+            <p>Theſe Seaven to be Whipt, <hi>viz.</hi>
+               <list>
+                  <item>William Morrice.</item>
+                  <item>John Barker,</item>
+                  <item>Hannab Price.</item>
+                  <item>Edward Pemberton.</item>
+                  <item>Amos Day.</item>
+                  <item>William Hummon.</item>
+                  <item>Alexander Price.</item>
+               </list>
+            </p>
+            <p>Theſe Following were Fin'd.<lb/>
+               <hi>George Robinſon</hi> Fin'd Forty Pound, and to ſtand in the <hi>Pillory</hi> two hours in <hi>Fleet-ſtreet,</hi> on <hi>Tueſday</hi> next, at the <hi>Royal Exchange,</hi> on <hi>Thurſday,</hi> and in <hi>Cheap-Side</hi> on <hi>Saturday,</hi>
+               <list>
+                  <item>John Brown.</item>
+                  <item>George Dix.</item>
+                  <item>Gamaliel Wells.</item>
+                  <item>Thomas Fiſher.</item>
+                  <item>Francis Peirce.</item>
+                  <item>Thomas Page.</item>
+               </list>
+Were Fined each twenty Marks and to ſtand on the <hi>Pillary,</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Langley Curtis.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
